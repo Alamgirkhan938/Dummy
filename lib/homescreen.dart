@@ -12,7 +12,7 @@ class _HomescreenState extends State<Homescreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(children: [Text('alamgir')],),
+      body: Column(children: [Text('waqas')],),
     );
   }
 }
